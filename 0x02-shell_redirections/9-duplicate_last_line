@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la > ls_cwd_content
+last_line=$(tail -n 1 iacta)
+echo "$last_line" >> iacta	
