@@ -1,1 +1,1 @@
-Print 1-confused_smiley
+Display the content of the /etc/passwd file.
