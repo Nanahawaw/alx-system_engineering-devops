@@ -12,3 +12,4 @@ Write a script that deletes all the regular files (not the directories) with a .
 What’s new
 being unique
 It must be in that file
+whatsnext
