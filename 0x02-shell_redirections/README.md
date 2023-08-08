@@ -11,3 +11,4 @@ Write a script that deletes all the regular files (not the directories) with a .
  Don't just count your directories, make your directories count
 What’s new
 being unique
+It must be in that file
